@@ -9,17 +9,6 @@ namespace Ru1t3rl.Events
     {
         [SerializeField] private List<CustomEvent> events = new List<CustomEvent>();
 
-        protected override void Awake()
-        {
-            base.Awake();
-
-            // Check if I'm the first instance
-            if (EventMananager.Instance.GetHashCode() != this.GetHashCode())
-            {
-                Destroy(this);
-            }
-        }
-
         /// <summary>Adds a listenere to an event, if the event doesn't exist it will be created</summary>
         /// <param name="eventName">The name of the event</param>
         /// <param name="listener">The listener to add</param>
