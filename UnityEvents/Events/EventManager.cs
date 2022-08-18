@@ -9,7 +9,7 @@ namespace Ru1t3rl.Events
     {
         [SerializeField] private List<CustomEvent> events = new List<CustomEvent>();
 
-        /// <summary>Adds a listenere to an event, if the event doesn't exist it will be created</summary>
+        /// <summary>Adds a listener to an event, if the event doesn't exist it will be created</summary>
         /// <param name="eventName">The name of the event</param>
         /// <param name="listener">The listener to add</param>
         public void AddListener(string eventName, System.Action listener)

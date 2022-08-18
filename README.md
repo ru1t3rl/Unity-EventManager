@@ -7,5 +7,5 @@ Two types of event managers for Unity. One is based on UnityEvents and the other
 # Tested Unity Versions
 The Event Managers have been tested on the Unity Versions below. They might work on others as well!
 
-![Minimum Version](https://img.shields.io/static/v1?label="Minimum"&message="2019.4.40f1"&color="orange"&logo="Unity")
-![Latest Version](https://img.shields.io/static/v1?label="Latest"&message="2022.1.11"&color="green"&logo="Unity")
+[![Minimum Version](https://img.shields.io/static/v1?label="Minimum"&message="2019.4.40f1"&color="orange"&logo="Unity")](unityhub://2019.4.40f1/ffc62b691db5)
+[![Latest Version](https://img.shields.io/static/v1?label="Latest"&message="2022.1.11"&color="green"&logo="Unity")](unityhub://2022.1.11f1/09bebd6e9324)
