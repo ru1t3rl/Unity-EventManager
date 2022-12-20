@@ -1,7 +1,7 @@
 # Unity Event Managers
 Two types of event managers for Unity. One is based on UnityEvents and the other System.Action
 
-![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ru1t3rl/Unity-EventManager?display_name=release&include_prereleases)
+![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/ru1t3rl/unity-eventmanager)
 ![GitHub](https://img.shields.io/github/license/ru1t3rl/Unity-EventManager)
 
 # Tested Unity Versions
